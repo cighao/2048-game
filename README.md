@@ -1,2 +1,2 @@
-# 2048-game
-the 2048 game by javascript
+# 2048游戏
+基于javascript实现的2048游戏
